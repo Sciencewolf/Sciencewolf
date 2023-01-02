@@ -18,6 +18,8 @@
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sciencewolf&repo=pozpp_beta&show_owner=true&theme=nightowl)](https://github.com/Sciencewolf/pozpp_beta)
 <br>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sciencewolf&repo=tiktokvideomaker&show_owner=true&theme=nightowl)](https://github.com/Sciencewolf/tiktokvideomaker)
+<br>
 
 ### Where to find me
 - Here 👋
