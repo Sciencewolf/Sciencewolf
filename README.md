@@ -16,6 +16,8 @@
 ### My Main Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sciencewolf&repo=codeeditor&show_owner=true&theme=nightowl)](https://github.com/Sciencewolf/CodeEditor)
 <br>
+[CodeEditor](https://sciencewolf.github.io/CodeEditor/) webpage
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sciencewolf&repo=pozpp_beta&show_owner=true&theme=nightowl)](https://github.com/Sciencewolf/pozpp_beta)
 <br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sciencewolf&repo=tiktokvideomaker&show_owner=true&theme=nightowl)](https://github.com/Sciencewolf/tiktokvideomaker)
