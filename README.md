@@ -23,6 +23,9 @@
 [![Readme Card](https://github-readme-stats-five-nu-96.vercel.app/api/pin/?username=sciencewolf&repo=tiktokvideomaker&show_owner=true&theme=nightowl)](https://github.com/Sciencewolf/tiktokvideomaker)
 <br>
 -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sciencewolf&color=grey" alt="profile">
+</p>
 ### Where to find me
 - Here 👋
 - [Email ✉](mailto:aron17marton@gmail.com)
