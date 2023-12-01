@@ -6,7 +6,7 @@
 <p>- Loves Technology 💻</p>
 <p>- Loves Nature 🌳</p>
 
-<p align="center">
+<p>
   <img src="https://komarev.com/ghpvc/?username=sciencewolf&color=grey" alt="profile">
 </p>
 
