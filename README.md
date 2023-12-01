@@ -12,4 +12,4 @@
 
 <h3>Where to find me</h3>
 <p>- Here 👋</p>
-- [Email ✉](mailto:aron17marton@gmail.com)
+- [Email ✉] <a href="mailto:aron17marton@gmail.com">Send Email</a>
