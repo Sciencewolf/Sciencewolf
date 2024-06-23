@@ -1,5 +1,5 @@
 ```js
-  console.log("Hey! 👋);
+  console.log("Hey! 👋");
 ```
 
 [//]: # (<a href="" target="_blank" align="center"><img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" /></a>)
