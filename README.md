@@ -17,7 +17,7 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/javascript.svg" width="64" height="64" />
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" />
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
-<img src="https://brandeps.com/logo-download/C/C-Sharp-logo-vector-01.svg" width="64" height="64"/>
+<img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" width="64" height="64"/>
 <img src="https://raw.githubusercontent.com/cncf/landscape/master/hosted_logos/cpp.svg" width="64" height="64" />
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
 <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" />
