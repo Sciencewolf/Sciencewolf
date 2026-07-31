@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sciencewolf">
-    <img src="https://img.shields.io/badge/GitHub-Sciencewolf-181717?style=flat-square&logo=github" alt="GitHub profile">
-  </a>
+  <a href="https://github.com/Sciencewolf"><img src="https://img.shields.io/badge/GitHub-Sciencewolf-181717?style=flat-square&logo=github" alt="GitHub profile"></a>
   <img src="https://komarev.com/ghpvc/?username=Sciencewolf&label=Profile%20views&style=flat-square" alt="Profile views">
 </p>
 
@@ -72,10 +70,12 @@ const developer = {
     "Docker",
     "Supabase",
     "PostgreSQL",
-    "Git"
+    "Git",
+    "JetBrains IDEs"
   ],
 
   openToCollaboration: true,
+
   currentlyLearning: [
     "AI Integration",
     "Software Architecture",
@@ -94,45 +94,20 @@ console.log("Hey! 👋");
 ### Programming Languages
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,java,javascript,typescript,kotlin,cs,cpp"
-    alt="Python, Java, JavaScript, TypeScript, Kotlin, C Sharp and C++"
-  >
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,kotlin,cs,cpp" alt="Python, Java, JavaScript, TypeScript, Kotlin, C Sharp and C++">
 </p>
 
 ### Web Development
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask"
-    alt="HTML, CSS, React, Node.js and Flask"
-  >
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask" alt="HTML, CSS, React, Node.js and Flask">
 </p>
 
 ### Artificial Intelligence and Automation
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.simpleicons.org/openai/FFFFFF"
-    >
-    <img
-      src="https://cdn.simpleicons.org/openai/000000"
-      width="48"
-      height="48"
-      alt="OpenAI"
-    >
-  </picture>
-
-  &nbsp;&nbsp;&nbsp;
-
-  <img
-    src="https://cdn.simpleicons.org/n8n/EA4B71"
-    width="48"
-    height="48"
-    alt="n8n"
-  >
+  <img src="https://cdn.simpleicons.org/openai/412991" width="48" height="48" alt="OpenAI">&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n">
 </p>
 
 <p align="center">
@@ -142,34 +117,14 @@ console.log("Hey! 👋");
 ### Databases and Backend Services
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=postgres,supabase"
-    alt="PostgreSQL and Supabase"
-  >
+  <img src="https://skillicons.dev/icons?i=postgres,supabase" alt="PostgreSQL and Supabase">
 </p>
 
 ### Infrastructure and Development Tools
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=git,github,docker,linux,raspberrypi,postman,vscode"
-    alt="Git, GitHub, Docker, Linux, Raspberry Pi, Postman and Visual Studio Code"
-  >
-
-  &nbsp;
-
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://cdn.simpleicons.org/jetbrains/FFFFFF"
-    >
-    <img
-      src="https://cdn.simpleicons.org/jetbrains/000000"
-      width="48"
-      height="48"
-      alt="JetBrains"
-    >
-  </picture>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,raspberrypi,postman,vscode" alt="Git, GitHub, Docker, Linux, Raspberry Pi, Postman and Visual Studio Code">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="48" height="48" alt="JetBrains">
 </p>
 
 ---
