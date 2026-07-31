@@ -112,7 +112,7 @@ console.log("Hey! 👋");
 </p>
 
 <p align="center">
-  OpenAI API · AI-powered applications · Prompt engineering · n8n workflow automation
+  OpenAI API · Google Gemini API · AI-powered applications · Prompt engineering · n8n workflow automation
 </p>
 
 ### Databases and Backend Services
