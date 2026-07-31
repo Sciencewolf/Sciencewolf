@@ -106,8 +106,8 @@ console.log("Hey! 👋");
 ### Artificial Intelligence and Automation
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/306500/openai.svg" width="48" height="48" alt="OpenAI">&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" width="48" height="48" alt="Gemini">&nbsp;&nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/306500/openai.svg" width="48" height="48" alt="OpenAI">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" width="48" height="48" alt="Gemini">&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n">
 </p>
 
