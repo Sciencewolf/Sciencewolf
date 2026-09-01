@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Interested in software development, backend systems, artificial intelligence, API integrations and workflow automation.
+  Interested in backend development, AI integrations, APIs and workflow automation.
 </p>
 
 <p align="center">
@@ -17,154 +17,51 @@
 
 ## About Me
 
-I hold a BSc degree in Computer Science from the University of Debrecen and plan to continue my studies in an MSc Computer Science programme.
+I hold a BSc degree in Computer Science from the University of Debrecen and plan to continue my studies at MSc level.
 
-I am interested in software development, backend systems, artificial intelligence, web technologies, API integrations and workflow automation. I enjoy building practical applications, connecting external services and using AI to improve and automate business processes.
+I enjoy building practical software solutions, especially backend applications, API integrations and AI-powered automations using technologies such as the OpenAI API and n8n.
 
-I have experience working with the OpenAI API and n8n to create AI-powered workflows, process data, integrate applications and automate repetitive tasks.
-
-I am also interested in Raspberry Pi projects, Android development, containerized applications and Linux-based development environments.
-
-- 🎓 BSc in Computer Science from the University of Debrecen
-- 📚 Preparing to continue my studies at MSc level
-- 💻 Interested in software and backend development
-- 🤖 Building AI-powered solutions with the OpenAI API
-- ⚙️ Creating automated workflows and integrations with n8n
-- 🌐 Working with web technologies, REST APIs and system integrations
-- 🔧 Exploring Raspberry Pi and Android development
-- 🐳 Working with Docker and containerized applications
-- 🐧 Comfortable working with Linux-based environments
-- 🚀 Open to collaboration and software development projects
-- 📈 Continuously improving my technical and problem-solving skills
+Currently, I am also exploring software architecture, Docker, Linux, Raspberry Pi and Android development.
 
 ---
 
-## Developer Profile
+## Technologies
 
-```javascript
-const developer = {
-  name: "Áron",
-  username: "Sciencewolf",
-
-  education: {
-    completed: "BSc in Computer Science",
-    university: "University of Debrecen",
-    nextStep: "MSc in Computer Science"
-  },
-
-  interests: [
-    "Software Development",
-    "Backend Development",
-    "Artificial Intelligence",
-    "OpenAI API Integration",
-    "Web Technologies",
-    "REST API Integration",
-    "Workflow Automation",
-    "Raspberry Pi",
-    "Android Development"
-  ],
-
-  tools: [
-    "OpenAI API",
-    "n8n",
-    "Docker",
-    "Supabase",
-    "PostgreSQL",
-    "Git",
-    "JetBrains IDEs"
-  ],
-
-  openToCollaboration: true,
-
-  currentlyLearning: [
-    "AI Integration",
-    "Software Architecture",
-    "Backend Development",
-    "Automation"
-  ]
-};
-
-console.log("Hey! 👋");
-```
-
----
-
-## Technologies and Tools
-
-### Programming Languages
+### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,kotlin,cs,cpp" alt="Python, Java, JavaScript, TypeScript, Kotlin, C Sharp and C++">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,kotlin,cs,cpp" alt="Programming Languages">
 </p>
 
-### Web Development
+### Web & Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask" alt="HTML, CSS, React, Node.js and Flask">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,postgres,supabase" alt="Web and Backend Technologies">
 </p>
 
-### Artificial Intelligence and Automation
+### Tools
 
 <p align="center">
-  <img src="https://www.svgrepo.com/show/306500/openai.svg" width="48" height="48" alt="OpenAI">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/google-gemini.svg" width="48" height="48" alt="Gemini">&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" alt="n8n">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,raspberrypi,postman,vscode" alt="Development Tools">
 </p>
 
 <p align="center">
-  OpenAI API · Google Gemini API · AI-powered applications · Prompt engineering · n8n workflow automation
-</p>
-
-### Databases and Backend Services
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,supabase" alt="PostgreSQL and Supabase">
-</p>
-
-### Infrastructure and Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,raspberrypi,postman,vscode" alt="Git, GitHub, Docker, Linux, Raspberry Pi, Postman and Visual Studio Code">&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" width="48" height="48" alt="JetBrains">
+  OpenAI API · Gemini API · n8n · REST APIs · PostgreSQL · Docker
 </p>
 
 ---
 
-## Areas of Interest
+## Interests
 
-- Software engineering
-- Backend development
-- Artificial intelligence integration
-- OpenAI API development
-- Prompt engineering
-- AI-powered applications
-- REST API design and integration
-- Database-backed applications
-- Web application development
-- n8n workflow automation
-- Business process automation
-- Data processing and system integration
-- Android application development
-- Raspberry Pi and hardware projects
-- Docker and containerized applications
-- Linux-based systems
-
----
-
-## Current Goals
-
-- Continue developing my software engineering skills
-- Begin my MSc studies in Computer Science
-- Improve my software architecture and backend development knowledge
-- Build maintainable and practical software projects
-- Develop AI-powered applications using the OpenAI API
-- Create reliable workflow automations with n8n
-- Gain more experience with APIs, databases and system integrations
-- Explore modern AI and software development technologies
-- Contribute to collaborative and open-source projects
+* Backend & software development
+* Artificial intelligence
+* API integrations
+* Workflow automation
+* Software architecture
+* Raspberry Pi & Android development
 
 ---
 
 <p align="center">
-  <em>Always learning, always improving and always building.</em>
+  <em>Always learning and building.</em>
 </p>
