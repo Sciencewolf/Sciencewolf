@@ -1,67 +1,61 @@
 <h1 align="center">Hi, I'm Áron 👋</h1>
 
 <p align="center">
-  <strong>Computer Science BSc Graduate · Computer Science MSc Student · Software Developer</strong>
+  <strong>Software Developer · Computer Science MSc Student @ University of Debrecen</strong><br>
+  Data &amp; Process Automation Intern @ Reflexshop
 </p>
 
 <p align="center">
-  Interested in backend development, AI integrations, APIs and workflow automation.
+  Backend · API integrations · AI-powered automation · Raspberry Pi
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sciencewolf"><img src="https://img.shields.io/badge/GitHub-Sciencewolf-181717?style=flat-square&logo=github" alt="GitHub profile"></a>
-  <img src="https://komarev.com/ghpvc/?username=Sciencewolf&label=Profile%20views&style=flat-square" alt="Profile views">
+  <a href="https://martonaron.dev"><img src="https://img.shields.io/badge/Portfolio-martonaron.dev-0A0A0A?style=flat-square&logo=vuedotjs&logoColor=42b883" alt="Portfolio"></a>
+  <a href="mailto:dev@martonaron.dev"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-## About Me
+## About
 
-I hold a BSc degree in Computer Science from the University of Debrecen and am currently pursuing an MSc degree.
+Computer Science BSc graduate from the University of Debrecen, now doing my MSc there while working as a data and process automation intern at Reflexshop.
 
-I enjoy building practical software solutions, especially backend applications, API integrations and AI-powered automations using technologies such as the OpenAI API and n8n.
-
-Currently, I am also exploring software architecture, Docker, Linux, Raspberry Pi and Android development.
+Most of what I build sits on the backend, usually Python and Flask: REST APIs, PostgreSQL, and automation workflows that glue systems together with n8n and the OpenAI/Gemini APIs. I also like projects where the software touches real hardware — my thesis was a Raspberry Pi controlled egg incubator with an Android companion app, and I still self-host things on a Pi.
 
 ---
 
-## Technologies
+## Featured Projects
 
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,kotlin,cs,cpp" alt="Programming Languages">
-</p>
-
-### Web & Backend
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,flask,postgres,supabase" alt="Web and Backend Technologies">
-</p>
-
-### Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,raspberrypi,postman,vscode" alt="Development Tools">
-</p>
-
-<p align="center">
-  OpenAI API · Gemini API · n8n · REST APIs · PostgreSQL · Docker
-</p>
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[personal-website](https://github.com/Sciencewolf/personal-website)** | My portfolio at [martonaron.dev](https://martonaron.dev) — Vue frontend with a Flask API that pulls live profile and repo data from the GitHub REST API. | Vue 3 · TypeScript · Vite · Flask |
+| **[szakdolgozat-raspberry-pi](https://github.com/Sciencewolf/szakdolgozat-raspberry-pi)** | BSc thesis: a smart egg incubator. Reads an AHT20 temp/humidity sensor, drives a heating element, fan and egg-turning motor over relays, logs full hatching cycles and serves a control UI. | Python · Flask · Raspberry Pi · Docker |
+| **[szakdolgozat-app](https://github.com/Sciencewolf/szakdolgozat-app)** | Android companion app for the incubator — remote monitoring and control of the running cycle. | Kotlin · Android |
+| **[file-server-raspberry-pi](https://github.com/Sciencewolf/file-server-raspberry-pi)** | Self-hosted file server running on a Raspberry Pi — upload, browse and download files over a small web UI. | Python · Flask · Raspberry Pi |
+| **[file-server-cli](https://github.com/Sciencewolf/file-server-cli)** | Native CLI client for the file server above. | C++ |
 
 ---
 
-## Interests
+## Tech Stack
 
-* Backend & software development
-* Artificial intelligence
-* API integrations
-* Workflow automation
-* Software architecture
-* Raspberry Pi & Android development
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,ts,js,cpp,cs" alt="Languages">
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=flask,postgres,supabase,docker,linux" alt="Backend and data">
+
+**Frontend & Tools**
+
+<img src="https://skillicons.dev/icons?i=vue,html,css,git,raspberrypi,postman" alt="Frontend and tools">
+
+**Also working with:** OpenAI API · Gemini API · n8n · REST API design · GitHub REST API
 
 ---
 
-<p align="center">
-  <em>Always learning and building.</em>
-</p>
+## Currently
+
+- Building data and process automation workflows at Reflexshop
+- Extending [martonaron.dev](https://martonaron.dev) — project showcase and animations are next
+- MSc coursework, with a focus on software architecture and system design
