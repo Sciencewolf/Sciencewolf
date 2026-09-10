@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Áron 👋</h1>
 
 <p align="center">
-  <strong>Computer Science BSc Graduate · Incoming MSc Student · Software Developer</strong>
+  <strong>Computer Science BSc Graduate · Computer Science MSc Student · Software Developer</strong>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## About Me
 
-I hold a BSc degree in Computer Science from the University of Debrecen and plan to continue my studies at MSc level.
+I hold a BSc degree in Computer Science from the University of Debrecen and am currently pursuing an MSc degree.
 
 I enjoy building practical software solutions, especially backend applications, API integrations and AI-powered automations using technologies such as the OpenAI API and n8n.
 
