@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Developer · Computer Science MSc Student @ University of Debrecen</strong><br>
-  Data &amp; Process Automation Intern @ Reflexshop
+  Data &amp; Process Automation Intern
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ## About
 
-Computer Science BSc graduate from the University of Debrecen, now doing my MSc there while working as a data and process automation intern at Reflexshop.
+Computer Science BSc graduate from the University of Debrecen, now doing my MSc there while working as a data and process automation intern.
 
 Most of what I build sits on the backend, usually Python and Flask: REST APIs, PostgreSQL, and automation workflows that glue systems together with n8n and the OpenAI/Gemini APIs. I also like projects where the software touches real hardware — my thesis was a Raspberry Pi controlled egg incubator with an Android companion app, and I still self-host things on a Pi.
 
@@ -56,6 +56,6 @@ Most of what I build sits on the backend, usually Python and Flask: REST APIs, P
 
 ## Currently
 
-- Building data and process automation workflows at Reflexshop
+- Building data and process automation workflows
 - Extending [martonaron.dev](https://martonaron.dev) — project showcase and animations are next
 - MSc coursework, with a focus on software architecture and system design
